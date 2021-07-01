@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KZ4Killua
-- 👀 I’m interested in artifial intelligence and machine learning.
+- 👀 I’m interested in artificial intelligence and machine learning.
 - 🌱 I’m currently learning both artificial intelligence and machine learning.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
