@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kz4killua
+- 👋 Hi, I’m Ifeanyi Obinelo (@kz4killua)
 - 👀 I’m interested in artificial intelligence and machine learning.
 - 🌱 I’m currently learning both artificial intelligence and machine learning.
 - 💞️ I’m looking to collaborate on ...
