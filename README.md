@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ifeanyi Obinelo (@kz4killua)
 - 👀 I’m interested in artificial intelligence and machine learning.
-- 🌱 I’m currently learning backend web development.
-- 💞️ I’m looking to collaborate on machine learning projects.
+- 🌱 I’m currently learning Next.js.
+- 💞️ I’m looking to collaborate on both machine learning and web development projects.
 - 📫 Tweet me @ifeanyi_obinelo.
 
 <!---
