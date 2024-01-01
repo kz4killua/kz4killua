@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development and machine learning.
 - 🌱 I’m currently learning C#.
 - 💞️ I’m looking to collaborate on both machine learning and web development projects.
-- 📫 Tweet me @ifeanyi_obinelo.
+- 📫 Tweet me @kz4killua.
 
 <!---
 kz4killua/kz4killua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
