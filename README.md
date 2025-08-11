@@ -12,7 +12,7 @@
 - [Glassdoor Unlocked](https://github.com/kz4killua/glassdoor-unlocked) - A Chrome extension that allows you to access Glassdoor reviews and information without needing to sign up or leave a review
 - [Wikirec](https://wikirec.ifeanyiobinelo.com/) - Find similar books, movies, tv shows, etc. 
 - [Open Tutor](https://opentutor.ifeanyiobinelo.com/) - AI-powered tools to crush your study goals
-- [K-compress](https://github.com/kz4killua/k-compress) - A C program that compresses and decompresses images using K-means clustering
+- [K-Compress](https://github.com/kz4killua/k-compress) - A C program that compresses and decompresses images using K-means clustering
 - [Wordle AI](https://github.com/kz4killua/wordle-ai) - An AI that plays the popular game Wordle
 - [Songle](https://github.com/kz4killua/songle) - Guess the song...with friends!
 - [Chess AI](https://github.com/kz4killua/chess-ai) - An AI agent that plays chess
