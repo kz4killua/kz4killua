@@ -6,6 +6,7 @@
 - Check out my [personal website](https://www.ifeanyiobinelo.com/) here.
 
 ## Projects
+- [Chartitect](https://www.chartitect.com) - Free & beautiful Notion charts
 - [Course Alerts](https://www.coursealerts.fyi) - Get text & email notifications when a seat opens up in a full course at Ontario Tech University
 - [FPL AI](https://github.com/kz4killua/fpl-ai) - An AI system trained to predict football performance and optimize Fantasy Premier League teams
 - [Soodo](https://soodo.ifeanyiobinelo.com/) - A dead-simple programming language with a runtime that runs in your browser
