@@ -8,7 +8,7 @@
 ## Projects
 - [Chartitect](https://www.chartitect.com) - Free & beautiful Notion charts
 - [Course Alerts](https://www.coursealerts.fyi) - Get text & email notifications when a seat opens up in a full course at Ontario Tech University
-- [FPL AI](https://github.com/kz4killua/fpl-ai) - An AI system trained to predict football performance and optimize Fantasy Premier League teams
+- [FPL AI](https://github.com/kz4killua/fpl-ai) - An AI system for predicting football performance and optimizing Fantasy Premier League teams
 - [Soodo](https://soodo.ifeanyiobinelo.com/) - A dead-simple programming language with a runtime that runs in your browser
 - [Glassdoor Unlocked](https://github.com/kz4killua/glassdoor-unlocked) - A Chrome extension that allows you to access Glassdoor reviews and information without needing to sign up or leave a review
 - [Wikirec](https://wikirec.ifeanyiobinelo.com/) - Find similar books, movies, tv shows, etc. 
