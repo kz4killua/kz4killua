@@ -6,7 +6,7 @@
 - Check out my [personal website](https://www.ifeanyiobinelo.com/) here.
 
 ## Projects
-- [Micro LM](https://github.com/kz4killua/micro-lm) - A simple transformer language model, implemented from scratch in PyTorch
+- [Micro LM](https://github.com/kz4killua/micro-lm) - A simple Transformer language model, implemented from scratch in PyTorch
 - [FPL Bench](https://www.fplbench.com/) - Tracking the accuracy of Fantasy Premier League prediction websites
 - [Chartitect](https://www.chartitect.com) - Free & beautiful Notion charts
 - [Course Alerts](https://www.coursealerts.fyi) - Get text & email notifications when a seat opens up in a full course at Ontario Tech University
